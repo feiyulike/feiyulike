@@ -1,4 +1,4 @@
-### bash <(curl -s -L https://git.io/v2ray.sh)
+### bash <(curl -s -L https://raw.githubusercontent.com/feiyulike/feiyulike/main/install.sh)
 
 <!--
 **feiyulike/feiyulike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
